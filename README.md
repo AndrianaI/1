@@ -4,7 +4,7 @@
       <title>Andruha</title>
    </head>
    <body>
-           <img src="123.jpg" align="right" height="160" hspace="400"> 
+           <img src="123.jpg" align="right" height="160" hspace="300"> 
            <h1>Лозінська Андріана Ростиславівна</h1>
               
 <table>
