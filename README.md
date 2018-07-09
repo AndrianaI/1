@@ -18,9 +18,7 @@
         </tr>
         <tr>
       <td>Телефон</td>
-      <td>0964102137</td>
-        </tr>
-          <tr>
+             <tr>
       <td>E-mail</td>
       <td><a href="mailto:andriana.lozinska@gmail.com">andriana.lozinska@gmail.com</td>
         </tr>
